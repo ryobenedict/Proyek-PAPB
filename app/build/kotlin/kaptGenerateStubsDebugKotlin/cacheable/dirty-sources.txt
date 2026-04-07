@@ -1,0 +1,8 @@
+C:\Users\riobe\StudioProjects\Proyek-PAPB\app\src\main\java\com\example\nugazz\ui\MainActivity.kt
+C:\Users\riobe\StudioProjects\Proyek-PAPB\app\src\main\java\com\example\nugazz\data\Task.kt
+C:\Users\riobe\StudioProjects\Proyek-PAPB\app\src\main\java\com\example\nugazz\data\AppDatabase.kt
+C:\Users\riobe\StudioProjects\Proyek-PAPB\app\src\main\java\com\example\nugazz\data\TaskRepository.kt
+C:\Users\riobe\StudioProjects\Proyek-PAPB\app\src\main\java\com\example\nugazz\ui\AddTaskBottomSheetFragment.kt
+C:\Users\riobe\StudioProjects\Proyek-PAPB\app\src\main\java\com\example\nugazz\viewmodel\TaskViewModel.kt
+C:\Users\riobe\StudioProjects\Proyek-PAPB\app\src\main\java\com\example\nugazz\data\TaskDao.kt
+C:\Users\riobe\StudioProjects\Proyek-PAPB\app\src\main\java\com\example\nugazz\ui\TaskAdapter.kt

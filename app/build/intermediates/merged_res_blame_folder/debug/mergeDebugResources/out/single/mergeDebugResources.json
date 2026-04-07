@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "com.example.nugazz.app-debug-42:/color_priority_text_color.xml.flat",
+        "source": "com.example.nugazz.app-main-44:/color/priority_text_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\riobe\\.gradle\\daemon\\8.13\\com.example.nugazz.app-debug-42:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\riobe\\.gradle\\daemon\\8.13\\com.example.nugazz.app-main-44:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\riobe\\.gradle\\daemon\\8.13\\com.example.nugazz.app-debug-42:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\riobe\\.gradle\\daemon\\8.13\\com.example.nugazz.app-main-44:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\riobe\\.gradle\\daemon\\8.13\\com.example.nugazz.app-debug-42:\\layout_bottom_sheet_add_task.xml.flat",
+        "source": "C:\\Users\\riobe\\.gradle\\daemon\\8.13\\com.example.nugazz.app-main-44:\\layout\\bottom_sheet_add_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\riobe\\.gradle\\daemon\\8.13\\com.example.nugazz.app-debug-42:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\riobe\\.gradle\\daemon\\8.13\\com.example.nugazz.app-main-44:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.nugazz.app-debug-42:/drawable_bg_priority_selector_low.xml.flat",
+        "source": "com.example.nugazz.app-main-44:/drawable/bg_priority_selector_low.xml"
+    },
+    {
+        "merged": "com.example.nugazz.app-debug-42:/drawable_bg_priority_selector_high.xml.flat",
+        "source": "com.example.nugazz.app-main-44:/drawable/bg_priority_selector_high.xml"
+    },
+    {
+        "merged": "C:\\Users\\riobe\\.gradle\\daemon\\8.13\\com.example.nugazz.app-debug-42:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\riobe\\.gradle\\daemon\\8.13\\com.example.nugazz.app-main-44:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.example.nugazz.app-debug-42:/drawable_bg_priority_selector_medium.xml.flat",
+        "source": "com.example.nugazz.app-main-44:/drawable/bg_priority_selector_medium.xml"
+    },
+    {
+        "merged": "com.example.nugazz.app-debug-42:/layout_bottom_sheet_add_task.xml.flat",
+        "source": "com.example.nugazz.app-main-44:/layout/bottom_sheet_add_task.xml"
+    },
+    {
+        "merged": "com.example.nugazz.app-debug-42:/drawable_bg_bottom_sheet.xml.flat",
+        "source": "com.example.nugazz.app-main-44:/drawable/bg_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\riobe\\.gradle\\daemon\\8.13\\com.example.nugazz.app-debug-42:\\layout_item_task.xml.flat",
+        "source": "C:\\Users\\riobe\\.gradle\\daemon\\8.13\\com.example.nugazz.app-main-44:\\layout\\item_task.xml"
+    },
+    {
+        "merged": "com.example.nugazz.app-debug-42:/layout_item_task.xml.flat",
+        "source": "com.example.nugazz.app-main-44:/layout/item_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\riobe\\.gradle\\daemon\\8.13\\com.example.nugazz.app-debug-42:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\riobe\\.gradle\\daemon\\8.13\\com.example.nugazz.app-main-44:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\riobe\\.gradle\\daemon\\8.13\\com.example.nugazz.app-debug-42:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\riobe\\.gradle\\daemon\\8.13\\com.example.nugazz.app-main-44:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\riobe\\.gradle\\daemon\\8.13\\com.example.nugazz.app-debug-42:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\riobe\\.gradle\\daemon\\8.13\\com.example.nugazz.app-main-44:\\drawable\\ic_launcher_background.xml"
+    }
+]

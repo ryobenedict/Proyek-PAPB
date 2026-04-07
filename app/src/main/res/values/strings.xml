@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nugazz</string>
+    <string name="priority_high">High</string>
+    <string name="priority_medium">Medium</string>
+    <string name="priority_low">Low</string>
+    <string name="add_task">Tambah Tugas</string>
+</resources>
